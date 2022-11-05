@@ -1,0 +1,13 @@
+header{
+	height: 38.4px;
+}
+
+footer {
+    position: fixed;
+    height: 20px;
+    bottom: 0px;
+    left: 150px;
+    right: 0px;
+    margin-bottom: 0px;
+
+}
