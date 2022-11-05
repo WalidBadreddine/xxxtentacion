@@ -1,6 +1,6 @@
 # xxxtentacion
 Just a website on one of my favorite artist xxxtentacion! 
 
-# if you want to view the full website just click on the link below!
+# Click on the link below to view the website. 
 
-https://htmlpreview.github.io/?https://github.com/WalidBadreddine/xxxtentacion/blob/main/XXXTENTACION/index.html#home
+https://rawcdn.githack.com/WalidBadreddine/xxxtentacion/b5a68c10b7eebb14c537aa94f893058efde50ba6/XXXTENTACION/index.html
